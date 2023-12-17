@@ -1,0 +1,49 @@
+.image {
+    border-radius: 50%;
+}
+
+#introduction {
+    background-color: #F9F4EC;
+}
+
+.col {
+    height: 400px;
+    width: 320px;
+    justify-content: center;
+    align-items: center;
+}
+
+.textbg {
+    background-color: #ffffffA0;
+}
+
+.framesize {
+    height: 32px;
+    width: 32px;
+}
+
+footer {
+    background-color: #F9F4EC;
+}
+
+.highlight {
+    background-color: #F9F4EC;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.bgcol {
+    background-color: #000000A0;
+}
+
+.boldx {
+    font-weight: 400;
+}
+
+
+/*  */
+
+.imageOnMouseOver {
+    border-radius: 10%;
+    z-index: 1;
+}
